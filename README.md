@@ -2,14 +2,21 @@
 A reddit bot that let's you pull post titles and urls from subreddits and repost it back to a private sub.
 
 To use:
-* Include a praw.ini file in the project folder with the following format: 
+Include a praw.ini file in the project folder with the following format: 
+
 --
 [name]
+
 username=
+
 password=
+
 client_id=
+
 client_secret=
+
 --
+
 Where username/password are your reddit username and password, and client_id and client_secret are your reddit application's personal use
 script code and secret code. This will make sure your credentials aren't in your main program. Make sure you replace [WorldDudeMan] with
 whatever you decide to name your bot.
