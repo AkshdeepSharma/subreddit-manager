@@ -36,7 +36,6 @@ while True:
     paste_from_subreddit('askreddit', '')
     paste_from_subreddit('aww','')
     paste_from_subreddit('explainlikeimfive', '')
-    paste_from_subreddit('eyebleach','')
     paste_from_subreddit('showerthoughts', '')
     paste_from_subreddit('learnprogramming','')
     print("Sleeping.")
