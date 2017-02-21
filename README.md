@@ -23,9 +23,11 @@ whatever you decide to name your bot.
 
 * Include a .txt file in your project folder. Make sure to replace 'subredditlinks.txt' with the name of your .txt file.
 
-* Copy+paste the subreddit search function as many times as you need for each subreddit you wish to get links from.
+* Copy+paste the subreddit search function as many times as you need for each subreddit you wish to get links from (inside the while loop. You may also upload the script server side like digitalocean or amazon aws so it doesn't have to run on a local machine).
 
-* Change the keywords you'd like to include in your submission titles (for example, I created this bot using 'Trump' as my keyword in
+* Change the keywords you'd like to include in your submission titles (for example, this bot uses 'Trump' as a keyword in
 /r/worldnews).
 
-* Enjoy the bot!
+*Note, in-depth instructions are included in the commenting of the python script.*
+
+Enjoy the bot!
