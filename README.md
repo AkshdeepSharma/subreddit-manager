@@ -5,6 +5,7 @@ To use:
 Include a praw.ini file in the project folder with the following format: 
 
 --
+
 [name]
 
 username=
