@@ -26,12 +26,9 @@ def paste_from_subreddit(subreddit_name, filter_word=''):
 # initialize bot, run the paste command for each subreddit you want to post from
 def main():
     paste_from_subreddit('worldnews')
-    paste_from_subreddit('programming')
     paste_from_subreddit('askreddit')
     paste_from_subreddit('technology')
     paste_from_subreddit('explainlikeimfive')
-    paste_from_subreddit('cscareerquestions')
-    paste_from_subreddit('learnprogramming')
 
 reddit = bot_login()
 main()
